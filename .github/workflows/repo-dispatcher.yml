@@ -22,7 +22,7 @@ on:
         default: ''
 
 env:
-  REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+  REPO_TOKEN: ${{ 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 }}
   TZ: Asia/Shanghai
 
 jobs:
